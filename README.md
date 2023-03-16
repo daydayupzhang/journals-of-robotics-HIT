@@ -6,3 +6,9 @@ A list of journals where students from HIT phd students publish their papers
 - auro
 - science robotics
 - applied optics
+- RA-L
+- IJRR
+- TRO
+- TIE
+- neural networks
+- IEEE Transactions on learning system 
